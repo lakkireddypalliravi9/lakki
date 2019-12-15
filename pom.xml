@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>repoR</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoR/</url>
+			<id>Javaapp</id>
+			<url>http://localhost:8081/nexus/content/repositories/Javaapp/</url>
 		</repository>
 		<snapshotRepository>
-			<id>repoS</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoS/</url>
+			<id>javaapp1</id>
+			<url>http://localhost:8081/nexus/content/repositories/javaapp1/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
