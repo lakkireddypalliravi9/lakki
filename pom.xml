@@ -3,7 +3,7 @@
 <groupId>com.maaven.practice</groupId>
 <artifactId>myapp</artifactId>
 <packaging>jar</packaging>
-<version>1.0</version>
+<version>1.0_test</version>
 
 <properties>
 <jdk.version>1.8</jdk.version>
